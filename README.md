@@ -1,5 +1,5 @@
 # ChatGPT-jb-smokin.ai
-## this prompt wirks with latest update of chagpt.
+## this prompt works with latest update of chagpt.
 
 # prompt!
 
